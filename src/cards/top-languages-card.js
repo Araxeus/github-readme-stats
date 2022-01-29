@@ -12,7 +12,7 @@ const {
 } = require("../common/utils");
 
 const DEFAULT_CARD_WIDTH = 300;
-const DEFAULT_LANGS_COUNT = 5;
+const DEFAULT_LANGS_COUNT = 6;
 const DEFAULT_LANG_COLOR = "#858585";
 const CARD_PADDING = 25;
 
